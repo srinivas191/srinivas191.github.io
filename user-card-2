@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .text{
+            text-align : "centre";
+        }
+        .simg{
+            margin-right: auto;
+            margin-left: auto;
+            width : 50%;
+            align : "centre";
+        }
+    </style>
+</head>
+<body></body>
+    <img src="https://w0.peakpx.com/wallpaper/317/554/HD-wallpaper-ntr-man-of-masses-jr-ntr-manofmasses-mass-ramcharan-swag-jrntr.jpg" alt ="JR NTR" class="simg">
+    <h3 class="text"> NANE : JR NTR </h3>
+    <h3 class="text"> DESIGNATION : ACTOR </h3>
+</body>
+</html>
